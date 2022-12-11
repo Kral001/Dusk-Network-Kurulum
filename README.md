@@ -137,7 +137,7 @@ tail -100 /var/log/dusk.log | grep 'Accepted'
 
 ![image](https://user-images.githubusercontent.com/101149671/202689226-c7d167d7-f3a1-4c03-be81-1979ec15dbe4.png)
 
-Artık yemeğimi yiyebilirim..
+
 
 
 
