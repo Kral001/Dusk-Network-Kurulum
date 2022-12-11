@@ -1,9 +1,7 @@
 # Dusk-Network-Kurulum
 <h1 align="center"> Dusk Network | Node Kurulumu </h1>
 
-<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="1000" height="500">
-
-<h1 align="center"> Selamlar arkadaşlar, Dusk ağında dün form doldurmuştuk ve tokenler biraz önce geldi, şimdi nodumuzu kuralım </h1>
+<h1 align="center"> Merhaba arkadaşlar, Dusk ağında form doldurmuştuk ve tokenler geldi, şimdi nodumuzu kuralım </h1>
 
 ## Formu doldurmadıysan: https://github.com/ruesandora/dusk-network
 
