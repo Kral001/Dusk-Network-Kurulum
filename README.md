@@ -3,7 +3,6 @@
 
 <h1 align="center"> Merhaba arkadaşlar, Dusk ağında form doldurmuştuk ve tokenler geldi, şimdi nodumuzu kuralım </h1>
 
-## Formu doldurmadıysan: https://github.com/ruesandora/dusk-network
 
 ## En önemli konu sistem gereksinimleri:
 
